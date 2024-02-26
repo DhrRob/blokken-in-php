@@ -1,0 +1,14 @@
+{
+	"$schema": "https://advancedcustomfields.com/schemas/json/main/block.json",
+	"name": "basic-demo-block",
+	"title": "Basic Demo Block",
+	"description": "A basic demo block, to showcase the minimum required configuration.",
+	"category": "wp040",
+	"textdomain": "wp040",
+	"acf": {
+		"mode": "preview",
+		"renderTemplate": "index.php"
+	},
+	"version": "1.0.0",
+	"apiVersion": 2
+}
